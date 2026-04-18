@@ -1,0 +1,550 @@
+Introduction:
+
+As DDD’s business is growing, it is very important for every employee of DDD to follow the policy while using a computer to carry out the work. Using a computer correctly by following the guideline set in this policy not only helps secure client’s data and DDD’s business but also improves the work efficiency and reduces IT’s support time.
+Purpose:
+
+This policy aims to give a guideline to all DDD’s employees when accessing DDD's IT system and infrastructure. IT department will use this document as a framework to carry out their work and at the same time all employees will be asked to strictly follow the requirement set in this policy.
+Scope:
+
+This policy applies to all users who use DDD’s computers and have access to DDD’s network environment.
+
+User Responsibilities:
+Every employee is responsible for protecting the hardware, software, data and information s/he has access to.  Every employee will be informed which data is sensitive and in case that you are in doubt, please ask your direct supervisor or IT team. Even though you cannot touch, information is an asset and can be a priceless asset for the client. Do understand that you are accountable for what you do on the computer. If you observe anything unusual, tell your supervisor or IT.
+
+DO
+DO NOT
+Do choose a complex password that is hard to guess
+Do not write down your password
+Do log off or lock your computer before you leave your workstation
+Do not share or disclose your password
+Do protect the computer from theft and keep it away from food and drinks		
+Do not share sensitive data with others
+Do ensure that all-important data is backed up regularly. Talk with the I.T. Department if you require assistance
+Do not access any website which is not related to the work during working hours
+Do inform the I.T. Department immediately if you are in doubt that your workstation may have a virus or have been compromised
+Do not duplicate or copy software
+Do use the internet for work related only during the working hours
+Do not install any software on your machine or alter its configuration, this work only be undertaken by the I.T. Department
+
+
+Do not use Facebook and youtube during the work					
+
+
+
+
+
+Password:
+Passwords should include Lowercase and
+Passwords should include Uppercase and
+Passwords should include Numbers and
+Passwords should include Special characters
+If password is suspected to be compromised, report to I.T Department
+Data security:
+
+Data security is one of DDD’s core policies, for the reasons that DDD entrusts with clients’ valuable and confidential information that our clients rely on us to be available all the time and that we need to maintain our corporate integrity and reputation against possible misuse. Therefore, we have elaborated a security policy with four main sections:
+Business Continuity
+DDD is committed to meeting its obligations to clients in terms of uptime and service quality. We have therefore put in place the following measures for continuity in workplace:
+- Enterprise equipment Cisco, DELL Server Storage and Desktop
+- Cisco networking equipment
+- Microsoft Software License
+- Software License with support from Partners
+- All IT equipment are centralized with UPS
+- 24 hours electricity and have generator for backup power
+
+Internet backup line
+
+Emergency Response Teams:
+The safety or our staff is a major concern. DDD‘s emergency response teams include the CEO, Senior management and Office management. Emergencies may include natural disasters, political events and other unexpected events.
+Disaster Recovery:
+Where we keep customer data, it is backup daily at a local site and weekly offsite. Restoration will begin after outage 24 hours, should be completed within 48 hours and the longest 7 days.
+Physical Access
+
+DDD is committed to the security of its staff and of customer data. As such, we have put in place a series of measures to ensure a generally secure environment.
+- All employees and guests have ID badges
+- Guard/receptionist on duty at all times when shifts are ongoing
+- Sensor to monitor fire alarms
+- Fire extinguisher for all main location and Server Room
+- No Internet access except for specific projects
+- No DVD drives for burn CDs and DVDs
+- No USB Dongles
+- No Printer access
+- No Mobile phones allowed connect to computers
+- Server room door locked with Fingerprint and security camera access only permitted to IT team with badges and identification.
+
+Network and Internet Security
+DDD uses Cisco for all network equipment and all users that access to Data on Servers must use ID and strong complex password.
+- Firewall system protected by Cisco ASA
+- Remote  Access  to  network  using  any  remote  access  requires  strong authentication using unique user IDs.
+- DDD gives wireless clients access to the network with a strong encryption, logging with user and password, non-broadcasting name.
+- DDD has an access to internet with limited user
+	- Internet traffic within DDD is limited to the necessary ports protocols and
+
+services thus ensuring proper use and access
+- Bandwidth management to manage the speed for all clients
+- Monitoring Tool to check the Traffic and speed
+Security Testing and Integrity
+DDD assigns a responsible person for security and ensures that all key IT personnel trained by quarterly in security discipline and measures. DDD does have an acceptable use policy and an employee security awareness training program in place. All employees are also made aware of their responsibilities regarding the IT system usage. URL blocking has been enforced for sites that are deemed inappropriate. DDD has also controlled/restricted the use of unauthorized and or dangerous software within its network. All computers are always checked for unauthorized software. IM usage within DDD is restricted to only client contacts. DDD not permits Non-Company Equipment usage within its network. DDD ensures that computers and other equipment are checked by IT against security policy or are segregated.
+Internet:
+
+I.T. Department will monitor Internet use from all computers and devices connected to the corporate network. For all traffic, the monitoring system must record the source IP Address, the date, the time, the protocol, and the destination site or server.
+Acceptable Use
+Employees of Digital Divide Data may use the Internet only to complete their job duties, under the purview of Digital Divide Data’s business objectives. Permissible, acceptable, and appropriate Internet-related work activities included. 
+Employees are expected to use the Internet responsibly and productively.
+Internet access is limited to job-related activities only and personal use is not permitted.
+Job-related activities include research and educational tasks that may be found via the Internet that would help in an employee's role.
+Keep your use of the Internet to a minimum.
+Check that any information you access on the Internet is accurate, complet 
+
+and current.
+Inform the I.T. Department immediately of any unusual occurrence.
+Inform the I.T. Department when you have any project to download or upload by ftp or any web browser.
+Inform the I.T. Department on your computer name and IP address when you come to a Digital Divide Data office that is different from the based office.
+
+Unacceptable Use
+Unacceptable use of the Internet by employees includes, but is not limited.
+Access to sites that contain obscene, hateful, pornographic, unlawful, violent or otherwise illegal material
+Send or post discriminatory, harassing, or threatening messages or images on the Internet or via DDD's email service
+Use DDD’s computers to perpetrate any form of fraud.
+Steal, use, or disclose someone else's password without authorization
+Download  software  from  the  Internet  and  install  it  upon  the Organization’s computer equipment.
+Use the Organization’s computers to make unauthorized entry into any other computer or network.
+Share  confidential  material,  trade  secrets,  or  proprietary  information outside of the organization
+Hack into unauthorized websites
+Send or post information that is defamatory to the Organization, its products/services, colleagues and/or customers
+Introduce  malicious  software  onto  the  organization  network  and/or jeopardizing the security of the organization's electronic communication systems
+Send or post chain letters, solicitations, or advertisements not related to business purposes or activities
+
+
+Email:
+
+New Hires:
+The New User Account Request form is completed by local HR management
+
+and forwarded to local IT management.
+Standard Email Account: firstname.lastname@digitaldividedata.com
+The form should be submitted to IT at least 5 business days before the employee start date.
+Mailing lists: By default every email account should be added to the office wide announcement list for that location.	
+
+
+The hiring manager needs to indicate what other mailing lists the employee should be added to.
+
+Signature:
+Your Full Name 
+Job Title
+Phone Number
+No. 559, Street 271 Tuol Tom Pong II Khan Chamkar Mon
+Phnom Penh, Cambodia
+yourname@digitaldividedata.com
+http://www.digitaldividedata.com
+
+Guiding principles:
+Email users are responsible for avoiding  the practices that could compromise information security.
+Corporate email services are provided to serve operational and administrative  purposes  in connection  with  the  business.	All emails processed by the corporate IT systems and networks are considered to be the organization’s property.
+Prohibited Use:
+The Digital Divide Data email system shall not be used for the creation or distribution of any disruptive or offensive messages, including offensive comments about race, gender, hair color, disabilities, age, sexual orientation, pornography, religious beliefs and practice, political beliefs, or national origin. Employees who receive any emails with this content from any Digital Divide Data employee should report the matter to their supervisor immediately.
+Monitoring:
+Digital Divide Data employees shall have no expectation of privacy in anything they store, send or receive on the company’s email system. Digital Divide Data
+
+may monitor messages without prior notice. Digital Divide Data is not obliged to monitor email messages.
+DDD Email Addresses for people who are not employees:
+Sometimes people who do not work for DDD may require a DDD email address generally for a short term, fixed period. Examples are: Sub-contractors, Consultants/Contractors and Volunteers. With a DDD email account you can also access other Google services such as documents, /folders/ and calendars so the proposed policy is:
+Subcontractors as approved by COO or designate receive a DDD email account. These companies operate as an extension of DDD and therefore require a DDD account. Volunteers who are based within a DDD office should have a DDD email account. Volunteers who are doing very short term projects for us and working off premises should be treated as consultants/contractors (See next bullet point) Consultants/contractors generally do not require a DDD email account and should only be given one on approval by a senior manager. Partners and Clients should NOT receive a DDD email account.
+Aliases:
+Aliases are generally created:
+To  shorten  email  addresses;  for  example,  “firstname”@  instead  of “firstname.lastname”@
+To represent a function (e.g. press@; jobs@; rsvp@)
+For public use where you do not want your own name appearing on a website or in an ad, for example.
+
+Think about your purpose before requesting an alias to be created. Also remember that while you can receive mail under an alias linked to your email address you can’t send mail from that alias; if you reply your actual email address will be displayed.
+Mailing Lists:
+Lists exist to facilitate communication to or within groups of people in an organization. They are usually organized by function, by project or by geography or some combination of these. They can also be used for short term purposes
+
+such as communications around a company event. Lists often have owners who manage who can have access to a group. When someone requests to be added to a list, IT will confirm the request with the employee’s supervisor and the departmental  manager.
+DDD has established a naming convention for groups. By adopting a consistent and descriptive scheme it is easier to find the group you are looking for and/or determine if you need to request the creation of a new group. A list of groups, their purpose and their managers can be found here.
+For all director reports to President, plus CEO Communications:
+	DDDL2@
+For all director reports to Vice President & CFO Plug DDDL2 Communication:
+	DDDL3@
+For Senior Management Communications:
+srmgmt@
+For Office Management Communications:
+pnh.management@,  vte.management@,  nbo.management@ 
+For Office Wide Communications:
+	PNH@, VTE@, NBO@
+For Project management Communications:
+pnh.pm@, vte.pm@, nbo.pm@
+ForDepartmentCommunications: 
+FIN, HR, IT (Finance, human resources, information technology, etc.) Followed by the three letter city code, eg. FINPNH, HRPNH, ITPNH
+	Within departments there may be a need to create a subset for a specific purpose, 	for example IT SUPPORT or EXPENSES. Those should follow the same format 		with the function followed by the city code. e.g. IT SUPPORT PNH.
+For Projects:
+	Project name followed by office location if needed, for example:
+	Harvard@ or HarvardPNH@
+	E-books@ or E-booksVTE@
+Discontinuing DDD e-mail accounts:
+When someone leaves DDD, HR completes the Staff Exit Check List for IT and Security. If there is a reason for the employee to retain access to their DDD email account after their departure date, the relevant manager needs to arrange
+
+that with HR and IT. The password on the email account is changed and an outgoing message such as the following is placed on the account:
+Chantha Lay is no longer at DDD. This email is being forwarded to Sophea Ny and all future correspondence can be sent to her at sophea.ny@digitaldividedata.org.	If you are trying to reach Chantha on a personal matter, her email is: chlay@gmail.com.” (The employee may opt out of having their personal email listed.)
+Within two months, the responsible manager should review the email in the former employee’s account and save anything that is needed, ensuring that whoever took over from this person has any relevant email. IT will send the responsible manager a reminder email that the former employee’s email account will be deleted one week prior to that date. The manager can request an extension of up to six months if necessary. After the two month period, the former employee’s email account will be deleted and the “Catchall” message will be received by anyone trying to email that person’s account:
+
+
+
+Catchall DDD catchall@digitaldividedata.com
+11:25 AM (1 minute ago)
+
+
+
+
+
+
+
+
+
+
+
+To Me
+
+
+
+
+
+
+
+Thank for contacting Digital Divide Data. Unfortunately, the e-mail Address you entered does not exist.
+If you are trying to reach Jeremy Hockenstein, please e-mail jeremy@digitaldividedata.org.
+For a current list of contacts at Digital Divide Data, please visit http://contact.digitaldividedata.com
+There may be a reason to keep an email account accessible for a longer period of time.  This can be requested/approved by an executive level manager only.
+In  that  case,  the  email  account  will  be  suspended  and  renamed  “ex-
+
+
+
+
+
+firstname.lastname”. These expired accounts then will be grouped together in the email list.
+Laptop:
+
+Laptop computers are an essential business tool but their very portability makes them particularly vulnerable to physical damage or theft.
+Do not forget that the impacts of such breaches include not just the replacement value of the hardware but also the value of any Digital Divide Data DATA on them, or accessible through them. We depend very heavily on our computer systems to provide complete and accurate business information when and where we need it. The impacts of unauthorized access to, or modification of, important and/or sensitive Digital Divide Data DATA can far outweigh the cost of the equipment itself.
+Physical security controls for Laptops
+The physical security of ‘your’ laptop is your personal responsibility so please take all reasonable precautions. Be sensible and stay alert to the risks. Keep your laptop in your possession and within sight whenever possible, just as if it were your wallet, handbag or mobile phone. Be extra careful in public places such as airports, railway stations or restaurants. It takes thieves just a fraction of a second to steal an unattended laptop. If you have to leave the Laptop temporarily unattended in the office, meeting room or hotel room, even for a short while, use a laptop security cable or similar device to attach it firmly to a desk or similar heavy furniture. These locks are not very secure but deter casual thieves. Lock the laptop away out of sight when you are not using it, preferably in a
+strong cupboard, filing cabinet or safe. This applies at home, in the office or in a hotel. Never leave a laptop visibly unattended in a vehicle. If absolutely necessary, lock it out of sight in the trunk or glove box but it is generally much safer to take it with you. Carry and store the laptop in a padded laptop computer bag or strong briefcase to reduce the chance of accidental damage. Don’t drop it or knock it about! Bubble-wrap packaging may be useful. An ordinary-looking briefcase is also less likely to attract thieves than an obvious laptop bag. Keep a note of the make, model, serial number and the Digital Divide Data
+
+
+
+
+
+asset label of your laptop but do not keep this information with the laptop. If it is lost or stolen, notify the Police immediately and inform the IT Help/Service Desk as soon as practicable (within hours not days, please).
+Virus protection of laptops
+Viruses are a major threat to Digital Divide Data and laptops are particularly vulnerable if their anti-virus software is not kept up-to-date. The anti-virus software MUST be updated at least monthly. The easiest way of doing this is simply to log on to the Digital Divide Data network for the automatic update process to run. If you cannot log on for some reason, contact the IT Help/Service Desk for advice on obtaining and installing anti-virus updates. Always virus-scan any files downloaded to your computer from any source (CD/DVD, USB hard disks and memory sticks, network files, email attachments or files from the Internet). Virus scans normally happen automatically but the IT Help/Service Desk can tell you how to initiate manual scans if you wish to be certain. Report any security incidents (such as virus infections) promptly to the IT Help/Service Desk in order to minimise the damage
+
+Controls against unauthorized access to laptop data
+You are personally accountable for all network and systems access under your user ID, so keep your password absolutely secret. Never share it with anyone, not even members of your family, friends or IT staff. Corporate laptops are provided for official use by authorized employees. Do not loan your laptop or allow it to be used by others such as family and friends. Avoid leaving your laptop unattended and logged-on. Always shut down, log off or activate a password-protected screensaver before walking away from the machine.
+Unauthorized  software
+Do not download, install or use unauthorized software programs. Unauthorized software could introduce serious security vulnerabilities into the Digital Divide Data networks as well as affecting the working of your laptop. Software packages that permit the computer to be ‘remote controlled’ and ‘hacking tools’ (e.g. network sniffers and password crackers) are explicitly forbidden on Digital
+
+
+
+
+
+Divide Data equipment unless they have been explicitly pre-authorized by management for legitimate business purposes.
+Backups
+Unlike Data in office which are backed up automatically by IT, you must take your own backups of data on your laptop. The simplest way to do this is to logon and upload a data from the laptop to the network on a regular basis – ideally daily but weekly at least. If you are unable to access the network, it is your responsibility to take regular off-line backups to CD/DVD, USB memory sticks etc. Remember, if the laptop is stolen, lost or damaged, or  if it simply malfunctions, it may be impossible to retrieve any of the data from the laptop. Off-line backups will save you a lot of heartache and extra work.
+Inappropriate  materials
+Be sensible! Digital Divide Data will not tolerate inappropriate materials such as pornographic, racist, defamatory or harassing files, pictures, videos or email messages that might cause offence or embarrassment. Never store, use, copy or circulate such material on the laptop and steer clear of dubious websites. IT staff routinely monitor the network and systems for such materials and track use of the Internet: they will report serious/repeated offenders and any illegal materials directly to management, and disciplinary processes will be initiated. If you receive inappropriate material by email or other means, delete it immediately. If you accidentally browse to an offensive website, click ‘back’ or close the window straight away. If you routinely receive a lot of spam, call IT Help/Service Desk to check your spam settings.
+Health and safety aspects of using laptops
+Laptops normally have smaller keyboards, displays and pointing devices that are less comfortable to use than desktop systems, increasing the chance of repetitive strain injury. Balancing the laptop on your knees hardly helps the situation! Limit the amount of time you spend using your laptop. Wherever possible, place the laptop on a conventional desk or table and sit comfortably in an appropriate chair to use it. If you tend to use the laptop in an office most of the time, you are advised to use a ‘docking station’ with a full-sized keyboard, a normal mouse and a display permanently mounted at the correct height. Stop using the portable and consult Health and Safety for assistance if you experience
+
+
+
+
+
+symptoms such as wrist pain, eye strain or headaches that you think may be caused by the way you are using the portable.
+Head of department
+New Laptop request, The USER need to get approval from head of department by related to Position and Job description requirement using Laptop.
+List of Laptop:
+
+1
+Operation: Vice President, Project Manager, Business Manager
+2
+Information Technology: Director, Manager, Network-System
+3
+Services Development: Director, Manager, Software Developer
+4
+Workforce Development: Director, Manager
+5
+Human Resources: Director, Manager
+6
+Finance: Director, Manager
+
+LOSS of LAPTOP
+The USER accepts full responsibility for all expenses due to damages or loss as Failure of USER to return the LAPTOP to DDD. The USER need to pay all the cost back to DDD during 3 months. IF the USER end the contract with DDD need to pay back in advance before END with DDD.
+Safe Place
+In case of the USER is not able to bring the Laptop and need to keep in office, please contact to IT to keep in a safe place before 5:00 PM, and take it back the next day from 8:30 AM.
+Replacement of LAPTOP
+IT will do replacement to new laptop after 3.5 Years from the budget of each department.
+Agreement FORM
+The USER will be provided with the following equipment:
+
+The value of purchase including shipping costs and applicable taxes will not exceed $750.
+The Laptop model, The Laptop Serial Number and Cost.
+
+CARE OF EQUIPMENT: It is agreed and understood that the USER will responsible care in the handling and use of LAPTOP and agrees to return the LAPTOP in good condition immediately upon USER’s separation from DDD. However, IF LOSS OR DAMAGE RESULTS FROM NEGLIGENCE OF THE USER, THEN THE USER will pay the cost below of the LAPTOP to Digital Divide
+
+
+Data:
+Firs year = Full replacement value cost
+Second year = $400
+Third year = $300
+After third year = $150
+By signing this agreement and acknowledge receipt of the LAPTOP, the USER accepts full responsibility for all expenses due to damages or loss as Failure of USER to return the LAPTOP to DDD.
+LOST or STOLEN LAPTOPS:
+
+In cases where the LAPTOP is lost or stolen, a report must be filed with the appropriate law enforcement agency and DDD within 48 hours of the time the LAPTOP is lost or stolen.
+LICENSE  AGREEMENTS:
+
+DDD is the sole owner of the software included with the LAPTOP. Any copying, modification, merging or distribution of the software by the USER, including the written documentation, is prohibited.
+RULES of LAPTOP OPERATION:
+
+The USER will act responsibly in order to protect the integrity of DDD network and the privacy of other users.
+USER accounts are for individual use only; under no circumstances should USER share password(s) or network access with anyone.
+USER will acknowledge that ALL Files stored on DDD NETWORKS are the property of DDD, DO NOT Store PERSONAL FILES ON LAPTOPS OR DDD NETWORK.
+USER will assist in curbing the spread of viruses by scanning all attachments from incoming emails and USB flash drives.
+
+
+TERMINATION of AGREEMNT:
+
+Termination  of  this  AGREEMENT  shall  occur  automatically  under  the following circumstance:
+
+Anytime the USER becomes separated from DDD.
+Breach of the rules of this AGREEMENT or other DDD policies.
+
+
+File storage
+
+Requirement storage space for File need request to I.T. for department and project is beginning:
+Discussion setup plan with date
+How much disk space will be required at the beginning, After 1 month, 2  month
+How long need storage space
+
+
+Folder structure
+Project Name:
+Input
+Working
+Output
+Documentation
+- SOW (Scope of work)
+
+
+Department:
+Operation
+IT
+Finance
+HR
+Solution Development
+Folder Template:
+Documentation
+Shared
+Users
+During Projects Running:
+	Project Manager need to clean the file that no long need
+	Using space base on the request
+	If need more space, report to I.T.
+	Do not add more space that over from request start up projects
+	Do not copy any big file > 10 GB over the network, Need to request to IT
+	If need any more folder, request to I.T.
+End Projects:
+	Need to report project finish with date to I.T
+
+
+
+
+
+	Confirm to I.T. to stop all Permission
+	How long keep projects on Server
+	When we move to Archive Server
+	When we can delete projects from Server
+	Confirm to I.T. to delete other user account related (FTP, Email…)
+
+Storage:
+DDD will retain all digital input and output files for 60 days after delivery. Unless otherwise stated, we will delete files after 60 days. After 60 days, DDD assumes that the client has accepted the output and both the digital input and output files have been properly stored and backed up by the client. Upon request, DDD will back up client input and output files beyond 60 days for a reasonable fee.
+Backup
+
+DDD Data Backup:
+Received the Input File from Customers with the USB External before backup need to check with clients first, if the clients have one copies already no need to do backup Input.
+Tracking Information
+Backup with daily for projects
+Full Copy first and then Incremental from Monday to Friday on one Folder
+Full Copy Saturday night to Sunday on one Folder
+Backup Database with daily full back up and keep with 7days
+Project start up
+
+I.T and Project Manager will working together to setup plan for startup project with information below:
+Project Name:	LDM
+
+Project Manager: Mr. A
+
+Date:	Jan 1, 2011
+
+Client PC Requirements: Server Requirements:
+Number of seats for Operator: Backup:
+
+
+
+
+
+FTP:
+
+Folder Permission:
+
+User ID need to Access the Projects Folder: Connection: VPN, Remote Access
+
+
+
+FTP
+
+
+
+
+FTP services hosted on EC2 service with amazon in the USA with uptime guarantees of 99.9%. Data files are stored in the Amazon EBS which has guaranteed availability of 99.9% in addition to providing data redundancy. Currently, we offer connectivity via standard FTP as well as secure transfer via SFTP and HTTPS.
+CreatingClientFTPAccounts: When the users require FTP Account for Projects, He or She needs to send email request to I.T with information below: 
+Information relate to FTP Accounts:
+Project Name ( Will be FTP Account Name for login)
+Customer Company Name
+Customer Name
+Customer Email
+DDD Project Manager Name
+Storage Requirements GB
+Duration of storage (number of days)
+If Partner: (Partner Company Name, Partner Name, Partner Email)
+If you need I.T to send login to customer, please help to inform I.T
+When stop using FTP Account need to inform to I.T to delete
+ChangePassword: Send email to request to I.T
+
+FTPAccount: FTP account will delete after one year if no data transaction. If you need to keep active service, Project Manager needs to inform to I.T.
+
+Folder:
+FTP Account = Project Name (Input and Output) Data storage:
+Input: Delete after IT has downloaded to local Server in office.
+Output: Keep for 30 days after that time IT will delete from FTP Server, if we
+
+need output again for customer IT will upload file from local server in office. Prohibited Use:
+The Digital Divide Data FTP system shall not to be used for personal use and sharing the login to other peoples.
+Computers  Emergency
+Computers Emergency Response Plan: Contact Asia:
+Mr. Suymeng Van (IT Manager) Base in Cambodia
+Email:  suymeng.van@digitaldividedata.com Telephone: +855 77 852 227    Website Support:
+Mr. Suymeng Van (IT Manager) Base in Cambodia
+Blue Host: http://www.bluehost.com
+Helpdesk:  http://helpdesk.bluehost.com/
+Telephone: Main Line: (888) 401-4678
+Outside the U.S: +1 (801) 765-9400
+24/7 Support
+DDD Domain: Hosting at Doman Name at Godaddy
+http://www.godaddy.com/
+○	Telephone: +1 (480) 505-8877
+24/7 Support
+DDD DNS : Hosting DNS at DNSmakeeasy
+http://www.dnsmadeeasy.com/
+○	Telephone: +1 703.880.3095 Email Support:
+Hosting Email at Google
+○	Telephone:  +1-646-257-4500 IT Infrastructure unavailable contact:
+Asia contact to Mr. Savuth Ou (IT Director) Base in Cambodia
+Data Study:
+Client Data (input and output) – critical and confidential
+Department Data – critical and confidential
+Projects data – critical and internal
+Criticality of Service List:
+FTP
+DDD Web Site
+Domain
+DNS
+Email
+
+
+
+
+
+Data Backup and Restoration Plan:
+Data backup is stored on separate server / storage system in the server room and offside at ISP Building.
+Data recovery obtained as follow:
+Database: restoration of database backup
+Files: restored by retrieving data from backup
+IT need to document all process how to restore system as soon as possible for the production.
+Media Management:
+IT Manager communicate to office locally.
+
+License Management
+DDD shall maintain a track of all software installed on the servers, workstations and laptops.
+
+Software Inventory
+DDD shall have a centralized system to keep track of all software installed on their servers / workstations. The IT team shall be responsible for the maintenance of this inventory. The IT team shall maintain a log of the installation and un-installation of all evaluation software used at DDD.
+
+License Management Process
+Software Installation / un-installation
+All Software installation or un-installations shall be done by the IT Team only. The IT Team shall have a checklist of the minimum software to be install on a user’s PC. This shall help them setup the system for a user, as per the department’s requirement. 
+
+Any user with a need for additional software to be install on their PC shall obtain approval for the same and then work with the IT Team to install the software.
+
+Authorization for Installation
+Productivity software
+Productivity software is define as the software that is use for carrying out day-to- day activities, such as, managing documents, network management, system administration, accounting etc.
+
+
+The IT Team shall install the required software as per the department’s requirement. In case a user requires additional software, the request for the same shall be rout through their department head. The department head shall forward the request to the CISO who shall verify the license availability for the requested software and then inform the IT Team to do the needful.
+
+If the license is not available, the CISO shall inform the requesting department head of the same. If the department head agrees to the purchase of the software, the concerned department will be involved in the purchase process. After the software is purchase, the CISO shall notify the IT Team to install the software on the user’s computer.
+
+Trial Ware / Evaluation Software
+Trial ware or evaluation software allows the user to test its functionality for a limited period of time. Employees, who need evaluation software installed on their PCs, shall get permission from their Head of Department prior to downloading the software. This authorization shall then be forward to the CISO who shall forward this request to the IT Team for further action. After the evaluation period is over, the IT Team shall uninstall the evaluation software from the user’s PC.
+
+The IT Team shall maintain a track of all evaluation software that has been installed or un-installed on the servers / workstations of DDD. Employees shall not use ‘cracks’ to try and unlock the evaluation software.
+
+Installation of freeware
+Freeware softwares are available free of cost from the Internet or from the CDs accompanying periodicals or computer books. Freeware can aid productivity, however one needs to exercise caution before installing any freeware.
+
+The IT Team shall test any freeware require to be install on servers / workstations of DDD. A separate test machine shall be use for carrying out the tests. The minimum tests that shall be carry out are –
+Ensure that the freeware does not load any spy ware  / Trojans
+Check the ports that are opened up when the software is used
+Ensure that system stability is not affect by the use of the freeware.
+
+Employees, with requirement of freeware installation on their PCs, shall first get the permission from their respective Head of Department. The Head of Department shall inform the CISO who shall in turn instruct the IT Team about the request.
+
+The IT Team shall download and install the software after testing it as mentioned above. If the test results indicate that the software is safe to use, then the CISO shall authorize the IT Team to install the software. Else the request to install the software is revoked.
+
+Software Copies
+The IT Team shall make a copy of licensed/ evaluation software CD, Software that is downloaded from the Internet etc. No employee shall make unauthorized copies of any software.
+
+Storage of licenses
+The License documents, copyrights agreements and the software media shall be placed in a secured location. Access to this location shall be restricted to IT Team and CISO only.
+
+Monitoring
+The IT Team shall monitor all servers and workstations for the software that are installed on them. Any software found to be installed without proper authorization shall be immediately uninstalled.
+
+Software Disposal / Decommissioning
+Software may have reached its usefulness period and may require to be disposed. In such a case, the IT Team shall work with the various departments to check their software requirement needs.
+
+
+Software shall be decommissioned when it has become obsolete, a newer version has been released by the vendor, DDD has decided to move to another better software / platform etc.
+
+In any of these cases, the software decommissioning shall be done after an approval has been obtained from the CISO. The software disposal shall be in any form such as a buy back by the vendor or a discontinuation of the software usage.
+
+The IT Team shall ensure that this Software are no longer available in their software repository. A copy of the same may be maintain on an external media and stored in a safe location. Access to the same shall be restricted. All manuals documents related to the software shall be destroy. The licenses shall be retain but marked as decommissioned.
+
+Patch Management
+The IT Team shall ensure that the operating system and application software is up to date. Before applying any patches / hotfixes, the IT Team shall backup the system.
+
+Whenever an update is released, the IT Team shall carry out a review and identify the patches / hotfixes that need to be applied to a system within a specified time period. The decision to apply the patch / hotfix shall be taken by the CISO.
+
+All such identified patches / hotfixes shall be tested on identified test systems, before being applied on the systems. The following shall be tested –
+No services, other than those identified for the system are running
+No ports, other than those identified for the system are open
+The applications are functioning
+
+The results of the reviews and tests conducted shall be documented.
+
+
+
+Enforcement:
+
+All terms and conditions as stated in this document are applicable to all users of DDD's network. All terms and conditions as stated in this document reflect an agreement of all parties and should be governed and interpreted in accordance with the policies and procedures mentioned above. Any user violating these policies is subject to disciplinary actions up to and including termination of employment.

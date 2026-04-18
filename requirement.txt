@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+fastapi[standard]>=0.136.0
+ollama>=0.6.1
+requests>=2.33.1
