@@ -19,19 +19,21 @@ It allows you to ask questions from your own documents using a local LLM.
 ---
 
 # 🏗️ Project Structure
+
+```text
 rag-ai/
 │
-├── main.py # CLI RAG chatbot
-├── load_data.py # Load documents
-├── split_text.py # Chunking logic
-├── embed_store.py # Embedding + FAISS DB
-├── retrieve.py # Vector search
-├── llm_client.py # Call FastAPI LLM
+├── main.py              # CLI RAG chatbot
+├── load_data.py         # Load documents
+├── split_text.py        # Chunking logic
+├── embed_store.py       # Embedding + FAISS DB
+├── retrieve.py          # Vector search
+├── llm_client.py        # Call FastAPI LLM
 │
-├── api.py # FastAPI server (Ollama)
+├── api.py               # FastAPI server (Ollama)
 │
 └── data/
-└── policy.txt
+    └── policy.txt
 
 ---
 
