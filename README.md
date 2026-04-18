@@ -39,17 +39,18 @@ rag-ai/
 
 ```bash
 pip install fastapi uvicorn ollama langchain faiss-cpu sentence-transformers requests```
-
+---
 ## ▶️ Run FastAPI Server
 
 ```bash
 uvicorn api:app --reload --host 127.0.0.1 --port 8000
-
+---
 ## ▶️ 🧪 Run RAG Chatbot
 
 ```bash
 uv run python main.py
-## ⭐ Author
+---
+# ⭐ Author
 
 Built by **DamrithSom** 🚀  
 
